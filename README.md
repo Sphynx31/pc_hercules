@@ -1,7 +1,8 @@
 # **ALERTA!**
 Valor total dos periféricos: **R$ 2.983,96** </br>
-Valor total das peças do PC: **R$ 22.195,85** </br>
-Valor total: **R$ 25.179,81** </br>
+Valor total das peças do PC: **R$ 20.506,86** </br>
+Valor total: **R$ 23.490,82** </br>
+Difença do Orçamento (25K): **R$ 1.509,18** </br>
 
 *Todos os valores foram calculados **sem** incluir o frete!!!*
 
