@@ -104,3 +104,20 @@ R$ **174,00** à vista ou **193,33** em até 6x s/ juros
 ### Monitor
 [AOC Hero 23.8 Full HD, Wide, 144 Hz, 1ms](https://www.kabum.com.br/produto/111160/monitor-gamer-aoc-hero-23-8-full-hd-wide-144-hz-1ms-freesync-hdmi-e-displayport-ips-ajuste-de-altura-24g2-bk) </br>
 R$ **1.129,99** à vista ou **1.255,54** em até 10x s/ juros
+
+
+## Lojas utilizadas:
+
+### [FallenStore](https://www.fallenstore.com.br/)
+
+### [Kabum](https://www.kabum.com.br/)
+
+### [Pichau](https://www.pichau.com.br/)
+
+### [Terabyte eShop](https://www.terabyteshop.com.br/)
+
+## Sites utilizados
+
+### [Calculadora de Gargalo](https://pc-builds.com/bottleneck-calculator/)
+
+### [Compilador de JavaScript online](https://www.programiz.com/javascript/online-compiler/)
