@@ -5,7 +5,7 @@ Valor total: **R$ 25.179,81** </br>
 
 *Todos os valores foram calculados **sem** incluir o frete!!!*
 
-Para alterar os valores e obter uma nova soma, copie o conteúdo do arquivo [converter.js](https://github.com/sdrjolbert/pc_spc/blob/main/converter.js) desse repositório, entre [nesse link](https://www.programiz.com/javascript/online-compiler/) e cola o conteúdo do arquivo e altere o valor das variáveis - **somente entre as *""*** - e clique em Run.
+Para alterar os valores e obter uma nova soma, copie o conteúdo do arquivo [converter.js](https://github.com/Sphynx31/pc_hercules/blob/main/converter.js) desse repositório, entre [nesse link](https://www.programiz.com/javascript/online-compiler/) e cola o conteúdo do arquivo e altere o valor das variáveis - **somente entre as *""*** - e clique em Run.
 
 # PC do Irmão do SPC
 ### Hardware
