@@ -47,8 +47,8 @@ R$ **3.759,99** à vista ou **4.177,77** em até  10x s/ juros
 R$ **849,00** à vista ou **998,82** em até  12x s/ juros
 
 ### Memória
-[Kingston Fury Beast, RGB, 64GB (2x32GB), 6000MHz, DDR5](https://www.kabum.com.br/produto/448309/memoria-kingston-fury-beast-rgb-64gb-2x32gb-6000mhz-ddr5-cl36-branco-kf560c36bweak2-64) </br>
-R$ **1.799,99** à vista ou **1.799,99** em até  10x s/ juros
+[Kingston Fury Beast EXPO, RGB, 64GB (2x32GB), 6000Mhz](https://www.terabyteshop.com.br/produto/24311/memoria-ddr5-kingston-fury-beast-expo-rgb-64gb-2x62gb-6000mhz-black-kf560c36bbeak2-64) </br>
+R$ **2.029,90** à vista ou **2.388,12** em até  12x s/ juros
 
 ### Fonte
 [CORSAIR HX1200, 1200W, FULL MODULAR, 80 PLUS PLATINUM](https://www.pichau.com.br/fonte-corsair-hx1200-1200w-full-modular-80-plus-platinum-preta-cp-9020140-na) </br>
