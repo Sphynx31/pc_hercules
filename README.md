@@ -9,6 +9,15 @@ Difença do Orçamento (25K): **R$ 1.509,18** </br>
 Para alterar os valores e obter uma nova soma, copie o conteúdo do arquivo [converter.js](https://github.com/Sphynx31/pc_hercules/blob/main/converter.js) desse repositório, entre [nesse link](https://www.programiz.com/javascript/online-compiler/) e cola o conteúdo do arquivo e altere o valor das variáveis - **somente entre as *""*** - e clique em Run.
 
 # PC do Irmão do SPC
+
+## Montando direto e todo pelo *"Monte o seu PC"* da [Terabyte](https://www.terabyteshop.com.br)
+Total: **R$ 25.055,61** </br></br>
+
+![Imagem do valor do PC da Terabyte](https://github.com/Sphynx31/pc_hercules/blob/main/valor_pc_terabye.jpg "Preço do PC da Tera")
+![Imagem das peças do PC da Terabyte](https://github.com/Sphynx31/pc_hercules/blob/main/pc_terabyte.jpg "Peças do PC da Tera")
+
+## Montando o PC de forma separada e escolhendo cada peça
+
 ### Hardware
 Gabinete Gamer Montech Air 903 Max White </br>
 Placa-mãe Asrock X670E Steel Legend, ATX, AMD Ryzen, DDR5, Wifi, Bluetooth </br>
