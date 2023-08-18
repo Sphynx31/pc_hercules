@@ -30,21 +30,21 @@ Total: **R$ 25.055,61** </br>
 ## Montando o PC de forma separada e escolhendo cada peça
 
 ### Hardware
-Gabinete Gamer Montech Air 903 Max White </br>
-Placa-mãe Asrock X670E Steel Legend, ATX, AMD Ryzen, DDR5, Wifi, Bluetooth </br>
+Gabinete Gamer Montech Air 903 Max Black </br>
+Placa-mãe ASRock X670E PRO RS, Chipset X670, AMD AM5, ATX, DDR5, Wi-fi </br>
 Processador Ryzen 9 7950X, 5.7GHz Max Turbo, Cache 80MB </br>
-Water Cooler Thermaltake TH360 Snow, ARGB, 360mm White </br>
-Memória Kingston Fury Beast, RGB, 64GB (2x32GB), 6000MHz, DDR5 </br>
+Water Cooler Thermaltake TH360, ARGB, 360mm </br>
+Memória Kingston Fury Beast EXPO, RGB, 64GB (2x32GB), 6000Mhz </br>
 Fonte CORSAIR HX1200, 1200W, FULL MODULAR, 80 PLUS PLATINUM </br>
-Placa de Vídeo Asus, ROG Strix, GeForce RTX 4080 OC Edition, White 16GB </br>
+Placa de Vídeo RTX 4080 Gaming X Trio MSI NVIDIA GeForce, 16 GB GDDR6X </br>
 SSD Corsair MP600 PRO XT, 2TB, M.2 PCIe, NVMe, Leitura 7100MB/s e Gravação 6800MB/s </br>
 
 ### Periféricos:
-Astro Astro A40 TR + MixAmp Pro TR Gen 4 </br>
+Headset HyperX Cloud II, Som Surround 7.1, Drivers 53mm, USB e P3, Preto e Vermelho </br>
 Mouse Logitech G PRO X Superlight </br>
 Teclado HyperX Alloy Origins 65, Switch RED, Layout 65%, US, Preto </br>
 Mousepad Fallen Pantera V2 Rgb - Speed+ Estendido </br>
-Monitor Zowie XL2546K, 24.5 240Hz, 1ms </br>
+Monitor AOC Hero 23.8 Full HD, Wide, 144 Hz, 1ms </br>
 
 ###
 > PC com orçamento de 25K
