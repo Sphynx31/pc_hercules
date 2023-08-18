@@ -31,20 +31,20 @@ Monitor Zowie XL2546K, 24.5 240Hz, 1ms </br>
 ## PC
 
 ### Gabinete
-[Montech Air 903 Max, Mid Tower, E-ATX, White](https://www.terabyteshop.com.br/produto/25221/gabinete-gamer-montech-air-903-max-mid-tower-e-atx-white-sem-fonte-com-4-fans) </br>
-R$ **419,00** à vista ou **492,94** em até 12x s/ juros
+[Montech Air 903 Max, Mid Tower, E-ATX, Black](https://www.terabyteshop.com.br/produto/25220/gabinete-gamer-montech-air-903-max-mid-tower-e-atx-black-sem-fonte-com-4-fans) </br>
+R$ **379,00** à vista ou **445,88** em até 12x s/ juros
 
 ### Placa-mãe
-[Asrock X670E Steel Legend, ATX, AMD Ryzen, DDR5, Wifi, Bluetooth](https://www.kabum.com.br/produto/386040/placa-mae-asrock-x670e-steel-legend-atx-amd-ryzen-ddr5-wifi-bluetooth-90-mxbj40-a0uayz) </br>
-R$ **2.319,99** à vista ou **2.729,40** em até  10x s/ juros
+[ASRock X670E PRO RS, Chipset X670, AMD AM5, ATX, DDR5, Wi-fi](https://www.terabyteshop.com.br/produto/22346/placa-mae-asrock-x670e-pro-rs-chipset-x670-amd-am5-atx-ddr5) </br>
+R$ **2.299,00** à vista ou **2.704,71** em até  12x s/ juros
 
 ### Processador
 [Ryzen 9 7950X, 5.7GHz Max Turbo, Cache 80MB](https://www.kabum.com.br/produto/378411/processador-amd-ryzen-9-7950x-5-7ghz-max-turbo-cache-80mb-am5-16-nucleos-video-integrado-100-100000514wof) </br>
 R$ **3.759,99** à vista ou **4.177,77** em até  10x s/ juros
 
 ### Water Cooler
-[COOLER MASTER MASTERLIQUID ML360L V2 ARGB 360MM WHITE EDITION](https://www.pichau.com.br/water-cooler-cooler-master-masterliquid-ml360l-v2-argb-360mm-white-edition-mlw-d36m-a18pw-rw) </br>
-R$ **699,90** à vista ou **823,41** em até  12x s/ juros
+[Water Cooler Thermaltake TH360, ARGB, 360mm](https://www.terabyteshop.com.br/produto/22446/water-cooler-thermaltake-th360-argb-360mm-intel-amd-black-cl-w300-pl12sw-a) </br>
+R$ **849,00** à vista ou **998,82** em até  12x s/ juros
 
 ### Memória
 [Kingston Fury Beast, RGB, 64GB (2x32GB), 6000MHz, DDR5](https://www.kabum.com.br/produto/448309/memoria-kingston-fury-beast-rgb-64gb-2x32gb-6000mhz-ddr5-cl36-branco-kf560c36bweak2-64) </br>
@@ -55,8 +55,8 @@ R$ **1.799,99** à vista ou **1.799,99** em até  10x s/ juros
 R$ **1.999,99** à vista ou **2.352,93** em até 12x s/ juros
 
 ### Placa de Vídeo
-[Asus, ROG Strix, GeForce RTX 4080 OC Edition, White 16GB](https://www.terabyteshop.com.br/produto/24166/placa-de-video-asus-rog-strix-geforce-rtx-4080-white-oc-edition-16gb-gddr6x-dlss-ray-tracing-rog-strix-rtx4080-o16gwhite) </br>
-R$ **9.997,00** à vista ou **11.761,18** em até  12x s/ juros
+[RTX 4080 Gaming X Trio MSI NVIDIA GeForce, 16 GB GDDR6X](https://www.kabum.com.br/produto/397581/placa-de-video-rtx-4080-gaming-x-trio-msi-nvidia-geforce-16-gb-gddr6x-dlss-ray-tracing-geforce-rtx-4080-16gb-gaming-x-trio) </br>
+R$ **7.989,99** à vista ou **9.399,99** em até  10x s/ juros
 
 ### SSD M.2
 [MP600 PRO XT, 2TB, M.2 PCIe, NVMe, Leitura 7100MB/s e Gravação 6800MB/s](https://www.kabum.com.br/produto/232238/ssd-corsair-force-mp600-pro-xt-2tb-m-2-pcie-nvme-leitura-7100mb-s-e-gravacao-6800mb-s-cssd-f2000gbmp600pxt) </br>
