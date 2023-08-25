@@ -1,8 +1,8 @@
 # **ALERTA!**
-Valor total dos periféricos: **R$ 2.983,96** </br>
-Valor total das peças do PC: **R$ 20.506,86** </br>
-Valor total: **R$ 23.490,82** </br>
-Difença do Orçamento (25K): **R$ 1.509,18** </br>
+Valor total dos periféricos: **R$ 3.942,96** </br>
+Valor total das peças do PC: **R$ 19.902,87** </br>
+Valor total: **R$ 23.845,83** </br>
+Difença do Orçamento (25K): **R$ 1.154,17** </br>
 
 *Todos os valores foram calculados **sem** incluir o frete!!!*
 
@@ -33,18 +33,19 @@ Total: **R$ 25.055,61** </br>
 Gabinete Gamer Montech Air 903 Max Black </br>
 Placa-mãe ASRock X670E PRO RS, Chipset X670, AMD AM5, ATX, DDR5, Wi-fi </br>
 Processador Ryzen 9 7950X, 5.7GHz Max Turbo, Cache 80MB </br>
-Water Cooler Thermaltake TH360, ARGB, 360mm </br>
-Memória Kingston Fury Beast EXPO, RGB, 64GB (2x32GB), 6000Mhz </br>
-Fonte CORSAIR HX1200, 1200W, FULL MODULAR, 80 PLUS PLATINUM </br>
+Water Cooler SuperFrame ISENGARD, ARGB, 360mm </br>
+Memória DDR5 Kingston Fury Beast, RGB, 16GB (4x16GB - 64GB), 5600Mhz </br>
+Fonte COUGAR POLAR 1200, 1200W, FULL MODULAR, 80 PLUS PLATINUM, BRANCA </br>
 Placa de Vídeo RTX 4080 Gaming X Trio MSI NVIDIA GeForce, 16 GB GDDR6X </br>
 SSD Corsair MP600 PRO XT, 2TB, M.2 PCIe, NVMe, Leitura 7100MB/s e Gravação 6800MB/s </br>
 
 ### Periféricos:
 Headset HyperX Cloud II, Som Surround 7.1, Drivers 53mm, USB e P3, Preto e Vermelho </br>
 Mouse Logitech G PRO X Superlight </br>
-Teclado HyperX Alloy Origins 65, Switch RED, Layout 65%, US, Preto </br>
+Teclado HyperX Alloy Origins, RGB, Switch HyperX Red, ABNT2 </br>
 Mousepad Fallen Pantera V2 Rgb - Speed+ Estendido </br>
 Monitor AOC Hero 23.8 Full HD, Wide, 144 Hz, 1ms </br>
+Cadeira Gamer Ninja Smoke, Reclinável, Tecido, 4D, Vermelha E Preta </br>
 
 ###
 > PC com orçamento de 25K
@@ -64,16 +65,16 @@ R$ **2.299,00** à vista ou **2.704,71** em até  12x s/ juros
 R$ **3.759,99** à vista ou **4.177,77** em até  10x s/ juros
 
 ### Water Cooler
-[Water Cooler Thermaltake TH360, ARGB, 360mm](https://www.terabyteshop.com.br/produto/22446/water-cooler-thermaltake-th360-argb-360mm-intel-amd-black-cl-w300-pl12sw-a) </br>
-R$ **849,00** à vista ou **998,82** em até  12x s/ juros
+[SuperFrame ISENGARD, ARGB, 360mm](https://www.terabyteshop.com.br/produto/21866/water-cooler-superframe-isengard-argb-360mm-intel-amd-controladora-black-sf-w360) </br>
+R$ **599,00** à vista ou **704,71** em até  12x s/ juros
 
 ### Memória
-[Kingston Fury Beast EXPO, RGB, 64GB (2x32GB), 6000Mhz](https://www.terabyteshop.com.br/produto/24311/memoria-ddr5-kingston-fury-beast-expo-rgb-64gb-2x62gb-6000mhz-black-kf560c36bbeak2-64) </br>
+[Kingston Fury Beast, RGB, 16GB (4x16GB - 64), 5600Mhz](https://www.terabyteshop.com.br/produto/23976/memoria-ddr5-kingston-fury-beast-rgb-16gb-5600mhz-black-kf556c40bba-16) </br>
 R$ **2.029,90** à vista ou **2.388,12** em até  12x s/ juros
 
 ### Fonte
-[CORSAIR HX1200, 1200W, FULL MODULAR, 80 PLUS PLATINUM](https://www.pichau.com.br/fonte-corsair-hx1200-1200w-full-modular-80-plus-platinum-preta-cp-9020140-na) </br>
-R$ **1.999,99** à vista ou **2.352,93** em até 12x s/ juros
+[COUGAR POLAR 1200, 1200W, FULL MODULAR, 80 PLUS PLATINUM, BRANCA](https://www.pichau.com.br/fonte-cougar-polar-1200-1200w-full-modular-80-plus-platinum-branca-cgr-pr-120) </br>
+R$ **1.799,90** à vista ou **2.117,53** em até 12x s/ juros
 
 ### Placa de Vídeo
 [RTX 4080 Gaming X Trio MSI NVIDIA GeForce, 16 GB GDDR6X](https://www.kabum.com.br/produto/397581/placa-de-video-rtx-4080-gaming-x-trio-msi-nvidia-geforce-16-gb-gddr6x-dlss-ray-tracing-geforce-rtx-4080-16gb-gaming-x-trio) </br>
@@ -94,7 +95,7 @@ R$ **349,99** à vista ou **411,75** em até 10x s/ juros
 R$ **799,99** à vista ou **941,16** em até 10x s/ juros
 
 ### Teclado
-[HyperX Alloy Origins 65, Switch RED, Layout 65%, US, Preto](https://www.kabum.com.br/produto/371598/teclado-mecanico-gamer-hyperx-alloy-origins-65-switch-red-layout-65-us-preto-4p5d6aa-aba) </br>
+[HyperX Alloy Origins, RGB, Switch HyperX Red, ABNT2](https://www.kabum.com.br/produto/102433/teclado-mecanico-gamer-hyperx-alloy-origins-rgb-switch-hyperx-red-abnt2-4p4f6a2-ac4) </br>
 R$ **529,99** à vista ou **623,52** em até 10x s/ juros
 
 ### Mousepad
@@ -105,6 +106,9 @@ R$ **174,00** à vista ou **193,33** em até 6x s/ juros
 [AOC Hero 23.8 Full HD, Wide, 144 Hz, 1ms](https://www.kabum.com.br/produto/111160/monitor-gamer-aoc-hero-23-8-full-hd-wide-144-hz-1ms-freesync-hdmi-e-displayport-ips-ajuste-de-altura-24g2-bk) </br>
 R$ **1.129,99** à vista ou **1.255,54** em até 10x s/ juros
 
+### Cadeira
+[Ninja Smoke, Reclinável, Tecido, 4D, Vermelha E Preta](https://www.terabyteshop.com.br/produto/24736/cadeira-gamer-ninja-smoke-reclinavel-tecido-4d-vermelha-e-preta) </br>
+R$ **999,00** à vista ou **1.175,29** em até 12x s/ juros
 
 ## Lojas utilizadas:
 
