@@ -10,25 +10,6 @@ Para alterar os valores e obter uma nova soma, copie o conteúdo do arquivo [con
 
 # PC do Irmão do SPC
 
-## Montando direto e todo pelo *"Monte o seu PC"* da [Terabyte](https://www.terabyteshop.com.br):
-Total: **R$ 25.055,61** </br>
-
-<p align="center">
-  <img
-    src="https://github.com/Sphynx31/pc_hercules/blob/main/valor_pc_terabye.jpg"
-    alt="Preço do PC da Tera"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github.com/Sphynx31/pc_hercules/blob/main/pc_terabyte.jpg"
-    alt="Peças do PC da Tera"
-  />
-</p>
-
-## Montando o PC de forma separada e escolhendo cada peça
-
 ### Hardware
 Gabinete Gamer Montech Air 903 Max Black </br>
 Placa-mãe ASRock X670E PRO RS, Chipset X670, AMD AM5, ATX, DDR5, Wi-fi </br>
