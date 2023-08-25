@@ -4,20 +4,21 @@ function convertNumber(sn) {
 
 const headset = "349,99";
 const mouse = "799,99";
-const keyboard = "529,99";
+const keyboard = "489,99";
 const mousepad = "174,00";
 const monitor = "1.129,99";
+const chair = "999,00";
 
 const pcCase = "379,00";
 const mobo = "2.299,00";
 const cpu = "3.759,99";
-const wc = "849,00";
-const ram = "2.029,90";
-const psu = "1.999,99";
+const wc = "599,00";
+const ram = String(469.00 * 4);
+const psu = "1.799,90";
 const gpu = "7.989,99";
 const ssd = "1.199,99";
 
-const peripheral = [headset, mouse, keyboard, mousepad, monitor];
+const peripheral = [headset, mouse, keyboard, mousepad, monitor, chair];
 const peripheralValues = peripheral.map((e) => convertNumber(e));
 const pc = [pcCase, mobo, cpu, wc, ram, psu, gpu, ssd];
 const pcValues = pc.map((e) => convertNumber(e));
